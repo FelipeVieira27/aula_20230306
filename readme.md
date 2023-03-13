@@ -4,4 +4,4 @@
 
 pipipipopopo
 
-Alterei sem salvar o anterior, o que pode dar errado?
+Eu alterei no github sem salvar o de antes, o que pode dar errado??
